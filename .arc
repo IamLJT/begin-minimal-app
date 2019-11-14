@@ -4,7 +4,7 @@ lion-shj
 @static
 
 @http
-
+get /demo
 
 @tables
 data
